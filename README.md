@@ -83,3 +83,7 @@ To test ddpg model, run:
 The ddpg tensorflow implementation is copied from the reinforcement tutorial by MorvanZhou:
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-2-DDPG/
 
+Original GitHub code:
+https://github.com/qianyuez/finger_inverse_kinematic
+
+
