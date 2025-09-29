@@ -1,5 +1,8 @@
 # finger_inverse_kinematic
 
+
+This is the updated version of :
+
 Implement finger inverse kinematic with  neural network and reinforcement learning algorithm ddpg.
 
 <img src="https://github.com/qianyuez/finger_inverse_kinematic/blob/master/data/inverse_kinematic1.gif" width="350px"><img src="https://github.com/qianyuez/finger_inverse_kinematic/blob/master/data/inverse_kinematic2.gif" width="350px">
@@ -79,3 +82,4 @@ To test ddpg model, run:
 ## Reference
 The ddpg tensorflow implementation is copied from the reinforcement tutorial by MorvanZhou:
 https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-2-DDPG/
+
