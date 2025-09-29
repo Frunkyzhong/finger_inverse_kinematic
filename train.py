@@ -79,5 +79,3 @@ if __name__ == '__main__':
 
     train()
 
-
-#https://github.com/qianyuez/finger_inverse_kinematic?tab=readme-ov-file
